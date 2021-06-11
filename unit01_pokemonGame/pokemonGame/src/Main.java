@@ -2,7 +2,8 @@
 //Pokemon Game
 //ICS4U1
 //May 17, 2021
-//Havi
+//Havi 
+//I changed this.
 public class Main {
     public static void main(String[] args) {
         // two move list tiers
