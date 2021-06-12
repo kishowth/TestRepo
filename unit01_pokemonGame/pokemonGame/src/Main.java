@@ -5,6 +5,7 @@
 //Havi 
 //I changed this.
 public class Main {
+    int x = 10;
     public static void main(String[] args) {
         // two move list tiers
         Moves[] listA = { new Moves("Wing Attack", 35, 35, "Flying"), new Moves("Quick Attack", 30, 40, "Normal"),
